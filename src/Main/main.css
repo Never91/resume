@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+main {
+    text-align: center;
+    margin-top: 120px;
+}
+
+.services {
+    width: 940px;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+    
+    
+}
+
+.services_logo {
+    font-size: 40px;
+    font-weight: 700;
+font-family: 'Open Sans', sans-serif;
+text-transform: uppercase;
+    
+}
+
+.services_text {
+    font-style: italic;
+    font-weight: 300;
+font-family: 'Open Sans', sans-serif;
+padding-top: 20px;
+    margin-bottom: 80px;
+    
+}
+
+.card_contaier {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 120px;
+}
+
+.services_card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 274px;
+}
+
+.icon{
+    width: 98px;
+    height: 98px;
+    border: 4px solid #fed136;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+.card_h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    padding-top: 28px;
+}
+
+.card_p {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+    font-size: 16px;
+   
+}

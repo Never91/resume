@@ -1,0 +1,62 @@
+
+
+.footer{
+    text-align: center;
+
+    height: auto;
+    background-color: #222222;
+     
+
+    background-image: url(../Images/Map\ Image@1X.png);
+    background-repeat: no-repeat;
+
+    background-position: right bottom;
+    
+}
+
+
+
+.services_logo_footer{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding-top: 115px;
+    
+
+}
+
+.services_text_footer{
+    color: #777777;
+    font-style: italic;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 20px;
+    margin-bottom: 80px;
+    color: #ffffff;
+
+}
+
+
+.information_conteiner{
+  display: flex;
+  justify-content: space-between;
+
+
+  margin-left: 110px;
+  margin-right: 110px;
+  padding-bottom: 50px;
+  
+}
+
+
+
+.p_on_footer{
+    background-color: #ffffff;
+    padding: 10px 20px 10px 20px;
+    border-radius: 30px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
